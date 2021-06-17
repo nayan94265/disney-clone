@@ -80,27 +80,27 @@ else if (userName) {
          
             <NavMenu>
               <a href="/home">
-                <img src="/images/home-icon.svg" alt="HOME" />
+                <img src="/images/home-icon.svg" alt="" />
                 <span>HOME</span>
               </a>
               <a>
-                <img src="/images/search-icon.svg" alt="SEARCH" />
+                <img src="/images/search-icon.svg" alt="" />
                 <span>SEARCH</span>
               </a>
               <a>
-                <img src="/images/watchlist-icon.svg" alt="WATCHLIST" />
+                <img src="/images/watchlist-icon.svg" alt="" />
                 <span>WATCHLIST</span>
               </a>
               <a>
-                <img src="/images/original-icon.svg" alt="ORIGINALS" />
+                <img src="/images/original-icon.svg" alt="" />
                 <span>ORIGINALS</span>
               </a>
               <a>
-                <img src="/images/movie-icon.svg" alt="MOVIES" />
+                <img src="/images/movie-icon.svg" alt="" />
                 <span>MOVIES</span>
               </a>
               <a>
-                <img src="/images/series-icon.svg" alt="SERIES" />
+                <img src="/images/series-icon.svg" alt="" />
                 <span>SERIES</span>
               </a>
              
